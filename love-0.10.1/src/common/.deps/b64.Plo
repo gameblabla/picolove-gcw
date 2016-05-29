@@ -1,0 +1,7 @@
+common/b64.lo: common/b64.cpp common/b64.h common/config.h ../config.h
+
+common/b64.h:
+
+common/config.h:
+
+../config.h:
